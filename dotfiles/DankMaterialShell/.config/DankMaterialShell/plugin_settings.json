@@ -1,0 +1,12 @@
+{
+  "emojiLauncher": {
+    "enabled": true
+  },
+  "calculator": {
+    "enabled": true,
+    "trigger": "="
+  },
+  "dankPomodoroTimer": {
+    "enabled": true
+  }
+}

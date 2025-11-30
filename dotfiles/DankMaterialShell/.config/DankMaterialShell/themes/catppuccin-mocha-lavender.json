@@ -1,0 +1,25 @@
+{
+    "name": "Catppuccin Mocha Lavender",
+    "primary": "#b4befe",
+    "primaryText": "#1e1e2e",
+    "primaryContainer": "#9399b2",
+    "secondary": "#b4befe",
+
+    "surface": "#1e1e2e",
+    "surfaceContainer": "#11111b",
+    "surfaceContainerHigh": "#181825",
+    "surcafeContainerHighest": "#313244",
+
+    "surfaceText": "#b4befe",
+    "surfaceVariant": "#313244",
+    "surfaceVariantText": "#cdd6f4",
+    
+    "background": "#11111b",
+    "backgroundText": "#cdd6f4",
+    "outline": "#313244",
+
+    "error": "#f38ba8",
+    "warning": "#f9e2af",
+    "info": "#89b4fa"
+}
+

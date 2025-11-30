@@ -1,0 +1,8 @@
+program_options:
+  smart-tray: true
+  notify: true
+  automount: false
+
+device_config:
+  id-uuid: "9ce83af4-544c-4ca9-b219-bc98bde10919"
+  automount: "true"
